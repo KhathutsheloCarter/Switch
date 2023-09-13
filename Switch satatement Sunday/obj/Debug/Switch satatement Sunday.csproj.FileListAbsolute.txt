@@ -1,0 +1,7 @@
+C:\Users\Lenovo-User\source\repos\C# Training\Switch satatement Sunday\bin\Debug\Switch satatement Sunday.exe.config
+C:\Users\Lenovo-User\source\repos\C# Training\Switch satatement Sunday\bin\Debug\Switch satatement Sunday.exe
+C:\Users\Lenovo-User\source\repos\C# Training\Switch satatement Sunday\bin\Debug\Switch satatement Sunday.pdb
+C:\Users\Lenovo-User\source\repos\C# Training\Switch satatement Sunday\obj\Debug\Switch satatement Sunday.csproj.AssemblyReference.cache
+C:\Users\Lenovo-User\source\repos\C# Training\Switch satatement Sunday\obj\Debug\Switch satatement Sunday.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-User\source\repos\C# Training\Switch satatement Sunday\obj\Debug\Switch satatement Sunday.exe
+C:\Users\Lenovo-User\source\repos\C# Training\Switch satatement Sunday\obj\Debug\Switch satatement Sunday.pdb
